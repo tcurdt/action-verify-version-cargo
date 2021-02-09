@@ -25,10 +25,10 @@
   "author": "Torsten Curdt",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.2.5",
+    "@actions/core": "^1.2.6",
     "toml": "^3.0.0"
   },
   "devDependencies": {
-    "@vercel/ncc": "^0.24.1"
+    "@vercel/ncc": "^0.27.0"
   }
 }
