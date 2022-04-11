@@ -29,6 +29,6 @@
     "toml": "^3.0.0"
   },
   "devDependencies": {
-    "@vercel/ncc": "0.33.3"
+    "@vercel/ncc": "0.33.4"
   }
 }
