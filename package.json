@@ -26,6 +26,6 @@
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^2.0.0",
-    "toml": "^3.0.0"
+    "toml": "^4.0.0"
   }
 }
